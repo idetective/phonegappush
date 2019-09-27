@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "171050319695",
-    "firebase_url": "https://phonegap-plugin-push-sam-e011d.firebaseio.com",
-    "project_id": "phonegap-plugin-push-sam-e011d",
-    "storage_bucket": "phonegap-plugin-push-sam-e011d.appspot.com"
+    "project_number": "730804757057",
+    "firebase_url": "https://push-d5b20.firebaseio.com",
+    "project_id": "push-d5b20",
+    "storage_bucket": "push-d5b20.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:171050319695:android:b71f283f00051af4",
+        "mobilesdk_app_id": "1:730804757057:android:81a7ae945e49e75b81dcc0",
         "android_client_info": {
-          "package_name": "es.phonegap.push.sample"
+          "package_name": "app.tochka.yapoisk.com"
         }
       },
       "oauth_client": [
         {
-          "client_id": "171050319695-h490j8i2ibh8ldnrjqnfibfacrj8bp4n.apps.googleusercontent.com",
+          "client_id": "730804757057-snh74vfgb0mvp66bn7vipvsgknt6cls8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBwleqlZJkCiNb4C1FpKforrtx6IzlANKw"
+          "current_key": "AIzaSyAAGWONk76eWgfJ7Lk9PAOuH-ERiFBfYVU"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730804757057-snh74vfgb0mvp66bn7vipvsgknt6cls8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
