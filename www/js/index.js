@@ -43,7 +43,7 @@ var app = {
             }
         });
 
-        push.on('registration', function (data) {
+        /*push.on('registration', function (data) {
             console.log(data.registrationId);
             console.log(data.registrationType);
             document.getElementById("registration").appendChild(document.createTextNode(data.registrationId));
@@ -60,7 +60,7 @@ var app = {
             console.log(data.sound);
             console.log(data.image);
             console.log(data.additionalData);
-        });
+        });*/
     }
 };
 
